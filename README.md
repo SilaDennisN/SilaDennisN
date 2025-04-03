@@ -42,7 +42,7 @@ I'm currently exploring cloud architectures and containerization to enhance the 
 
 - GitHub: [github.com/SilaDennisN](https://github.com/SilaDennisN)
 - LinkedIn: [Sila Dennis](https://linkedin.com/in/siladennis77aa51264)
-- Email: [your.email@example.com](mailto:dennissila1256@gmail.com)
+- Email: [dennissila1256@gmail.com](mailto:dennissila1256@gmail.com)
 
 ## 💬 About Me
 
