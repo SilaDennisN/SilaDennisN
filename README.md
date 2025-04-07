@@ -182,10 +182,11 @@ I'm a versatile software engineer passionate about creating solutions that make 
 
 | Technology | Progress | Focus Area |
 |------------|----------|------------|
-| ☁️ **Cloud Architecture** | ![75%](https://progress-bar.dev/75) | Building resilient applications for African markets with limited connectivity |
-| 🐳 **Containerization** | ![60%](https://progress-bar.dev/60) | Implementing Docker solutions optimized for constrained hardware environments |
-| 🤖 **AI Integration** | ![45%](https://progress-bar.dev/45) | Exploring lightweight ML models for local business intelligence |
-| 📱 **Flutter Development** | ![35%](https://progress-bar.dev/35) | Building cross-platform solutions for broader market reach |
+| ☁️ **Cloud Architecture** | ![Progress](https://img.shields.io/badge/Progress-75%25-blue) | Building resilient applications for African markets with limited connectivity |
+| 🐳 **Containerization** | ![Progress](https://img.shields.io/badge/Progress-60%25-blue) | Implementing Docker solutions optimized for constrained hardware environments |
+| 🤖 **AI Integration** | ![Progress](https://img.shields.io/badge/Progress-45%25-brightgreen) | Exploring lightweight ML models for local business intelligence |
+| 📱 **Flutter Development** | ![Progress](https://img.shields.io/badge/Progress-35%25-blue) | Building cross-platform solutions for broader market reach |
+
 
 ## 🌍 Community Involvement
 
