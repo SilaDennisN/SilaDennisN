@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SilaDennisN/SilaDennisN/main/coding.gif" alt="coding" width="350" />
-  <p><em>Transforming ideas into elegant, functional solutions</em></p>
+  <p><i>Transforming ideas into elegant, functional solutions</i></p>
 </div>
 
 <div align="center">
@@ -36,30 +36,33 @@ I'm a versatile software engineer passionate about creating solutions that make 
 
 ## 🚀 What I Do
 
+<div align="center">
 <table>
   <tr>
-    <td width="25%" align="center">
+    <td align="center">
       <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100" height="100"/>
       <br/>
       <strong>Desktop Applications</strong>
       <br/>
       <small>Custom POS systems for local businesses across Kenya</small>
     </td>
-    <td width="25%" align="center">
+    <td align="center">
       <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="100" height="100"/>
       <br/>
       <strong>Web Development</strong>
       <br/>
       <small>Scalable web applications with modern frameworks</small>
     </td>
-    <td width="25%" align="center">
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://media.giphy.com/media/HVofJOWFXGpDX4xeg1/giphy.gif" width="100" height="100"/>
       <br/>
       <strong>Mobile Solutions</strong>
       <br/>
       <small>Android apps optimized for African markets</small>
     </td>
-    <td width="25%" align="center">
+    <td align="center">
       <img src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif" width="100" height="100"/>
       <br/>
       <strong>System Integration</strong>
@@ -68,6 +71,7 @@ I'm a versatile software engineer passionate about creating solutions that make 
     </td>
   </tr>
 </table>
+</div>
 
 ## 🛠️ My Technology Ecosystem
 
@@ -109,86 +113,63 @@ I'm a versatile software engineer passionate about creating solutions that make 
 
 ## 🏆 Featured Projects
 
-<div class="projects">
-  <details open>
-    <summary><h3>📊 Point of Sale (POS) System</h3></summary>
-    <p>A comprehensive desktop solution tailored for Kenyan retail businesses, built with PyQt5 and MySQL.</p>
-    <div class="project-details">
-      <div class="project-features">
-        <ul>
-          <li>📦 Inventory management with M-Pesa integration</li>
-          <li>💹 Real-time sales tracking with offline capabilities</li>
-          <li>📈 Customized reporting for local tax compliance</li>
-          <li>🔄 Multi-branch synchronization for distributed businesses</li>
-          <li>🌍 Optimized for low-bandwidth environments</li>
-        </ul>
-      </div>
-      <div class="project-image">
-        <img src="https://raw.githubusercontent.com/SilaDennisN/SilaDennisN/main/pos-preview.png" alt="POS Preview" width="100%"/>
-      </div>
-    </div>
-    <div class="project-tech">
-      <span>Python</span>
-      <span>PyQt5</span>
-      <span>MySQL</span>
-      <span>SQLite</span>
-    </div>
-  </details>
+<details open>
+  <summary><h3>📊 Point of Sale (POS) System</h3></summary>
+  
+  A comprehensive desktop solution tailored for Kenyan retail businesses, built with PyQt5 and MySQL.
+  
+  **Key Features:**
+  - 📦 Inventory management with M-Pesa integration
+  - 💹 Real-time sales tracking with offline capabilities
+  - 📈 Customized reporting for local tax compliance
+  - 🔄 Multi-branch synchronization for distributed businesses
+  - 🌍 Optimized for low-bandwidth environments
+  
+  <img src="https://raw.githubusercontent.com/SilaDennisN/SilaDennisN/main/pos-preview.png" alt="POS Preview" width="600"/>
+  
+  **Technologies Used:**  
+  `Python` `PyQt5` `MySQL` `SQLite`
+</details>
 
-  <details>
-    <summary><h3>🏢 Rent Management Platform</h3></summary>
-    <p>A full-stack application built for East African property managers that simplifies tenant-landlord relationships.</p>
-    <div class="project-details">
-      <div class="project-features">
-        <ul>
-          <li>💰 Automated billing with mobile money integration</li>
-          <li>🔧 Maintenance request system with priority handling</li>
-          <li>💬 Multilingual communication tools (English & Swahili)</li>
-          <li>📱 Progressive Web App for low-data usage</li>
-          <li>📊 Customizable dashboards for property owners</li>
-        </ul>
-      </div>
-      <div class="project-image">
-        <img src="https://raw.githubusercontent.com/SilaDennisN/SilaDennisN/main/rent-preview.png" alt="Rent Management Preview" width="100%"/>
-      </div>
-    </div>
-    <div class="project-tech">
-      <span>Laravel</span>
-      <span>Vue.js</span>
-      <span>MySQL</span>
-      <span>Firebase</span>
-    </div>
-  </details>
+<details>
+  <summary><h3>🏢 Rent Management Platform</h3></summary>
+  
+  A full-stack application built for East African property managers that simplifies tenant-landlord relationships.
+  
+  **Key Features:**
+  - 💰 Automated billing with mobile money integration
+  - 🔧 Maintenance request system with priority handling
+  - 💬 Multilingual communication tools (English & Swahili)
+  - 📱 Progressive Web App for low-data usage
+  - 📊 Customizable dashboards for property owners
+  
+  <img src="https://raw.githubusercontent.com/SilaDennisN/SilaDennisN/main/rent-preview.png" alt="Rent Management Preview" width="600"/>
+  
+  **Technologies Used:**  
+  `Laravel` `Vue.js` `MySQL` `Firebase`
+</details>
 
-  <details>
-    <summary><h3>📱 Business Management Mobile App</h3></summary>
-    <p>An Android application designed for Kenyan entrepreneurs to manage their businesses on-the-go.</p>
-    <div class="project-details">
-      <div class="project-features">
-        <ul>
-          <li>🔄 Robust offline capabilities for rural areas</li>
-          <li>📊 Visual business analytics with localized insights</li>
-          <li>🔔 SMS-based notifications for limited internet access</li>
-          <li>🔐 Multi-level security with role-based permissions</li>
-          <li>💡 Low-power mode for devices with battery constraints</li>
-        </ul>
-      </div>
-      <div class="project-image">
-        <img src="https://raw.githubusercontent.com/SilaDennisN/SilaDennisN/main/android-preview.png" alt="Android App Preview" width="100%"/>
-      </div>
-    </div>
-    <div class="project-tech">
-      <span>Kotlin</span>
-      <span>Java</span>
-      <span>SQLite</span>
-      <span>Firebase</span>
-    </div>
-  </details>
-</div>
+<details>
+  <summary><h3>📱 Business Management Mobile App</h3></summary>
+  
+  An Android application designed for Kenyan entrepreneurs to manage their businesses on-the-go.
+  
+  **Key Features:**
+  - 🔄 Robust offline capabilities for rural areas
+  - 📊 Visual business analytics with localized insights
+  - 🔔 SMS-based notifications for limited internet access
+  - 🔐 Multi-level security with role-based permissions
+  - 💡 Low-power mode for devices with battery constraints
+  
+  <img src="https://raw.githubusercontent.com/SilaDennisN/SilaDennisN/main/android-preview.png" alt="Android App Preview" width="600"/>
+  
+  **Technologies Used:**  
+  `Kotlin` `Java` `SQLite` `Firebase`
+</details>
 
 ## 📈 GitHub Activity
 
-<div align="center" class="stats-section">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SilaDennisN&show_icons=true&theme=radical" alt="Sila's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilaDennisN&theme=radical" alt="Sila's GitHub streak" />
 </div>
@@ -199,39 +180,12 @@ I'm a versatile software engineer passionate about creating solutions that make 
 
 ## 🌱 Current Learning Focus
 
-<div class="learning-path">
-  <div class="learning-item">
-    <h4>☁️ Cloud Architecture</h4>
-    <div class="progress-bar">
-      <div class="progress" style="width: 75%"></div>
-    </div>
-    <p>Building resilient applications for African markets with limited connectivity</p>
-  </div>
-  
-  <div class="learning-item">
-    <h4>🐳 Containerization</h4>
-    <div class="progress-bar">
-      <div class="progress" style="width: 60%"></div>
-    </div>
-    <p>Implementing Docker solutions optimized for constrained hardware environments</p>
-  </div>
-  
-  <div class="learning-item">
-    <h4>🤖 AI Integration</h4>
-    <div class="progress-bar">
-      <div class="progress" style="width: 45%"></div>
-    </div>
-    <p>Exploring lightweight ML models for local business intelligence</p>
-  </div>
-  
-  <div class="learning-item">
-    <h4>📱 Flutter Development</h4>
-    <div class="progress-bar">
-      <div class="progress" style="width: 35%"></div>
-    </div>
-    <p>Building cross-platform solutions for broader market reach</p>
-  </div>
-</div>
+| Technology | Progress | Focus Area |
+|------------|----------|------------|
+| ☁️ **Cloud Architecture** | ![75%](https://progress-bar.dev/75) | Building resilient applications for African markets with limited connectivity |
+| 🐳 **Containerization** | ![60%](https://progress-bar.dev/60) | Implementing Docker solutions optimized for constrained hardware environments |
+| 🤖 **AI Integration** | ![45%](https://progress-bar.dev/45) | Exploring lightweight ML models for local business intelligence |
+| 📱 **Flutter Development** | ![35%](https://progress-bar.dev/35) | Building cross-platform solutions for broader market reach |
 
 ## 🌍 Community Involvement
 
@@ -242,140 +196,12 @@ I'm a versatile software engineer passionate about creating solutions that make 
 
 ## 💬 Let's Connect
 
-<div align="center" class="connect-section">
+<div align="center">
   <p>I'm always open to interesting conversations, collaboration opportunities, and projects that make a difference.</p>
   
   [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/siladennis)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourwhatsappnumber)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/siladennis)
   
-  <p class="final-cta">⭐ <strong>If you find my work helpful, a star would be greatly appreciated!</strong> ⭐</p>
+  <b>⭐ If you find my work helpful, a star would be greatly appreciated! ⭐</b>
 </div>
-
-<!-- Custom CSS for enhanced styling -->
-<style>
-:root {
-  --primary-color: #8a2be2;
-  --secondary-color: #ff6b6b;
-  --accent-color: #00b4d8;
-  --text-color: #333;
-  --light-bg: #f8f9fa;
-}
-
-/* Animated elements */
-.projects {
-  animation: fadeIn 1s ease-in-out;
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-/* Project styling */
-.project-details {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  margin-top: 15px;
-}
-
-.project-features {
-  flex: 1;
-  min-width: 300px;
-}
-
-.project-image {
-  flex: 1;
-  min-width: 300px;
-  transition: transform 0.3s ease;
-}
-
-.project-image:hover {
-  transform: scale(1.02);
-}
-
-.project-tech {
-  margin-top: 15px;
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-}
-
-.project-tech span {
-  background: var(--primary-color);
-  color: white;
-  padding: 5px 10px;
-  border-radius: 15px;
-  font-size: 12px;
-  transition: all 0.3s ease;
-}
-
-.project-tech span:hover {
-  background: var(--secondary-color);
-  transform: translateY(-2px);
-}
-
-/* Learning path styling */
-.learning-path {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 20px;
-  margin: 20px 0;
-}
-
-.learning-item {
-  background: var(--light-bg);
-  padding: 15px;
-  border-radius: 8px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.learning-item:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-}
-
-.progress-bar {
-  height: 10px;
-  background: #e9ecef;
-  border-radius: 5px;
-  overflow: hidden;
-  margin: 10px 0;
-}
-
-.progress {
-  height: 100%;
-  background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
-  border-radius: 5px;
-  transition: width 1.5s ease-in-out;
-}
-
-/* Stats section animation */
-.stats-section img {
-  transition: transform 0.3s ease;
-}
-
-.stats-section img:hover {
-  transform: translateY(-5px);
-}
-
-/* Connect section styling */
-.connect-section {
-  background: linear-gradient(135deg, rgba(138, 43, 226, 0.1), rgba(255, 107, 107, 0.1));
-  padding: 20px;
-  border-radius: 10px;
-  margin-top: 30px;
-}
-
-.final-cta {
-  margin-top: 20px;
-  animation: pulse 2s infinite;
-}
-
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-</style>
