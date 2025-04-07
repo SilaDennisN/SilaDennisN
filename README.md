@@ -10,25 +10,29 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siladennis77aa51264)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SilaDennisN)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dennissila1256@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://siladennis.dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://siladennis.dev)
   
 </div>
 
-## 💫 Who I Am
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SilaDennisN&style=flat-square&color=blueviolet" alt="Profile views"/>
+</div>
+
+## 💫 About Me
 
 ```javascript
 const sila = {
-  name: "Sila Dennis",
-  title: "Full-Stack Developer & Problem Solver",
-  location: "Nairobi, Kenya",
-  expertise: ["Web Development", "Mobile Apps", "Desktop Solutions"],
-  passion: "Creating technology that makes a difference in people's lives",
-  strengths: ["Attention to detail", "User-centric design", "Robust architecture"],
-  philosophy: "Write code today that you'll be proud of tomorrow"
+  name: "Sila Dennis N",
+  role: "Full-Stack Developer & Systems Integrator",
+  location: "Kenya",
+  specialties: ["UI/UX Design", "Database Architecture", "Cross-Platform Solutions"],
+  interests: ["Open Source", "Mentoring", "Tech Innovation"],
+  education: "Computer Science Graduate",
+  motto: "Simplicity is the ultimate sophistication"
 };
 ```
 
-I'm a versatile developer who thrives on challenges and believes in the power of technology to transform businesses. With experience across multiple platforms and languages, I specialize in creating seamless experiences that bridge technical complexity with user simplicity.
+I'm a versatile software engineer passionate about creating solutions that make a difference. With expertise in both frontend and backend technologies, I specialize in bridging the gap between user experience and system functionality.
 
 ## 🚀 What I Do
 
@@ -39,33 +43,33 @@ I'm a versatile developer who thrives on challenges and believes in the power of
       <br/>
       <strong>Desktop Applications</strong>
       <br/>
-      <small>Business automation systems with Python & PyQt5 that enhance operational efficiency</small>
+      <small>Custom POS systems for local businesses across Kenya</small>
     </td>
     <td width="25%" align="center">
       <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="100" height="100"/>
       <br/>
       <strong>Web Development</strong>
       <br/>
-      <small>Responsive, data-driven applications with Laravel, Spring Boot, and modern frontend frameworks</small>
+      <small>Scalable web applications with modern frameworks</small>
     </td>
     <td width="25%" align="center">
       <img src="https://media.giphy.com/media/HVofJOWFXGpDX4xeg1/giphy.gif" width="100" height="100"/>
       <br/>
       <strong>Mobile Solutions</strong>
       <br/>
-      <small>Intuitive Android applications focused on offline-first functionality</small>
+      <small>Android apps optimized for African markets</small>
     </td>
     <td width="25%" align="center">
       <img src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif" width="100" height="100"/>
       <br/>
       <strong>System Integration</strong>
       <br/>
-      <small>Connecting disparate systems through robust APIs and middleware solutions</small>
+      <small>Connecting legacy systems with modern platforms</small>
     </td>
   </tr>
 </table>
 
-## 🛠️ Tech Stack
+## 🛠️ My Technology Ecosystem
 
 <div align="center">
 
@@ -86,19 +90,20 @@ I'm a versatile developer who thrives on challenges and believes in the power of
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Database & Mobile
+### Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Tools & DevOps
+### Mobile & Tools
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
@@ -106,159 +111,168 @@ I'm a versatile developer who thrives on challenges and believes in the power of
 
 <div class="projects">
   <details open>
-    <summary><h3>📊 Kinaya POS System</h3></summary>
-    <p>A comprehensive point-of-sale solution designed specifically for SMEs in East Africa.</p>
+    <summary><h3>📊 Point of Sale (POS) System</h3></summary>
+    <p>A comprehensive desktop solution tailored for Kenyan retail businesses, built with PyQt5 and MySQL.</p>
     <div class="project-details">
+      <div class="project-features">
+        <ul>
+          <li>📦 Inventory management with M-Pesa integration</li>
+          <li>💹 Real-time sales tracking with offline capabilities</li>
+          <li>📈 Customized reporting for local tax compliance</li>
+          <li>🔄 Multi-branch synchronization for distributed businesses</li>
+          <li>🌍 Optimized for low-bandwidth environments</li>
+        </ul>
+      </div>
       <div class="project-image">
         <img src="https://raw.githubusercontent.com/SilaDennisN/SilaDennisN/main/pos-preview.png" alt="POS Preview" width="100%"/>
       </div>
-      <div class="project-info">
-        <ul>
-          <li>📦 Inventory management with low-stock alerts and supplier integration</li>
-          <li>💹 Real-time sales tracking with multicurrency support</li>
-          <li>📊 Business intelligence dashboard with custom reporting</li>
-          <li>🔄 Works online and offline with automatic synchronization</li>
-          <li>🖨️ Compatible with thermal printers and barcode scanners</li>
-        </ul>
-        <p><strong>Technologies:</strong> Python, PyQt5, SQLite, MySQL, REST API</p>
-        <a href="https://github.com/SilaDennisN/kinaya-pos" class="project-link">View Project →</a>
-      </div>
+    </div>
+    <div class="project-tech">
+      <span>Python</span>
+      <span>PyQt5</span>
+      <span>MySQL</span>
+      <span>SQLite</span>
     </div>
   </details>
 
   <details>
-    <summary><h3>🏢 KejaMaster Property Management Platform</h3></summary>
-    <p>A full-stack solution built to address the unique challenges of property management in urban Kenya.</p>
+    <summary><h3>🏢 Rent Management Platform</h3></summary>
+    <p>A full-stack application built for East African property managers that simplifies tenant-landlord relationships.</p>
     <div class="project-details">
+      <div class="project-features">
+        <ul>
+          <li>💰 Automated billing with mobile money integration</li>
+          <li>🔧 Maintenance request system with priority handling</li>
+          <li>💬 Multilingual communication tools (English & Swahili)</li>
+          <li>📱 Progressive Web App for low-data usage</li>
+          <li>📊 Customizable dashboards for property owners</li>
+        </ul>
+      </div>
       <div class="project-image">
         <img src="https://raw.githubusercontent.com/SilaDennisN/SilaDennisN/main/rent-preview.png" alt="Rent Management Preview" width="100%"/>
       </div>
-      <div class="project-info">
-        <ul>
-          <li>💰 M-Pesa integration for automated rent collection and receipting</li>
-          <li>📱 Tenant mobile app for service requests and communication</li>
-          <li>📊 Landlord dashboard with occupancy analytics and financial reports</li>
-          <li>🔧 Maintenance tracking with vendor management system</li>
-          <li>📝 Digital lease agreements with e-signature support</li>
-        </ul>
-        <p><strong>Technologies:</strong> Laravel, Vue.js, MySQL, Firebase, REST API</p>
-        <a href="https://github.com/SilaDennisN/kejamaster" class="project-link">View Project →</a>
-      </div>
+    </div>
+    <div class="project-tech">
+      <span>Laravel</span>
+      <span>Vue.js</span>
+      <span>MySQL</span>
+      <span>Firebase</span>
     </div>
   </details>
 
   <details>
-    <summary><h3>📱 BiasharaMobile Field Agent App</h3></summary>
-    <p>An Android application that empowers field sales representatives with offline-first capabilities.</p>
+    <summary><h3>📱 Business Management Mobile App</h3></summary>
+    <p>An Android application designed for Kenyan entrepreneurs to manage their businesses on-the-go.</p>
     <div class="project-details">
+      <div class="project-features">
+        <ul>
+          <li>🔄 Robust offline capabilities for rural areas</li>
+          <li>📊 Visual business analytics with localized insights</li>
+          <li>🔔 SMS-based notifications for limited internet access</li>
+          <li>🔐 Multi-level security with role-based permissions</li>
+          <li>💡 Low-power mode for devices with battery constraints</li>
+        </ul>
+      </div>
       <div class="project-image">
         <img src="https://raw.githubusercontent.com/SilaDennisN/SilaDennisN/main/android-preview.png" alt="Android App Preview" width="100%"/>
       </div>
-      <div class="project-info">
-        <ul>
-          <li>🗺️ Geolocation tracking with optimized route planning</li>
-          <li>📸 Product catalog with offline image caching</li>
-          <li>📊 Real-time sales performance analytics</li>
-          <li>🔄 Efficient data synchronization in low-bandwidth environments</li>
-          <li>🧾 Digital order processing with signature capture</li>
-        </ul>
-        <p><strong>Technologies:</strong> Java, Android SDK, SQLite, Retrofit, Google Maps API</p>
-        <a href="https://github.com/SilaDennisN/biashara-mobile" class="project-link">View Project →</a>
-      </div>
+    </div>
+    <div class="project-tech">
+      <span>Kotlin</span>
+      <span>Java</span>
+      <span>SQLite</span>
+      <span>Firebase</span>
     </div>
   </details>
 </div>
 
-## 📊 My Impact
+## 📈 GitHub Activity
 
-<div class="impact-metrics">
-  <div class="metric">
-    <h3>15+</h3>
-    <p>Projects Delivered</p>
-  </div>
-  <div class="metric">
-    <h3>20+</h3>
-    <p>Satisfied Clients</p>
-  </div>
-  <div class="metric">
-    <h3>5+</h3>
-    <p>Years Experience</p>
-  </div>
-  <div class="metric">
-    <h3>3</h3>
-    <p>Countries Served</p>
-  </div>
-</div>
-
-## 📈 GitHub Stats
-
-<div align="center">
+<div align="center" class="stats-section">
   <img src="https://github-readme-stats.vercel.app/api?username=SilaDennisN&show_icons=true&theme=radical" alt="Sila's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilaDennisN&theme=radical" alt="Sila's GitHub streak" />
 </div>
 
-## 🌱 Current Focus
-
-I'm currently expanding my expertise in:
-
-- ☁️ Cloud-native application architecture with AWS and Azure
-- 🔒 Implementing robust security practices for financial applications
-- 📱 Progressive Web Apps for cross-platform compatibility
-- 🤖 Integrating AI for business process optimization
-- 📊 Data visualization techniques for complex business analytics
-
-## 💼 Professional Journey
-
-```mermaid
-graph LR
-    A[Junior Developer] --> B[Full-Stack Developer]
-    B --> C[System Architect]
-    C --> D[Technical Lead]
-    style A fill:#f9f9f9,stroke:#333,stroke-width:1px
-    style B fill:#f9f9f9,stroke:#333,stroke-width:1px
-    style C fill:#f9f9f9,stroke:#333,stroke-width:1px
-    style D fill:#e6f7ff,stroke:#0066cc,stroke-width:2px
-```
-
-## 🎓 Education & Certifications
-
-- **BSc in Computer Science** - University of Nairobi
-- **AWS Certified Solutions Architect**
-- **Google Associate Android Developer**
-- **Laravel Certified Developer**
-
-## 📚 Blog & Knowledge Sharing
-
-I regularly write about my experiences and insights on [dev.to/siladennis](https://dev.to/siladennis). Recent articles:
-
-- [Building Offline-First Applications for Challenging Network Environments](https://dev.to/siladennis)
-- [Integrating Mobile Money Solutions for African E-commerce](https://dev.to/siladennis)
-- [Performance Optimization Techniques for Laravel Applications](https://dev.to/siladennis)
-
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SilaDennisN&theme=radical&row=1&column=6" alt="trophy" />
+</div>
+
+## 🌱 Current Learning Focus
+
+<div class="learning-path">
+  <div class="learning-item">
+    <h4>☁️ Cloud Architecture</h4>
+    <div class="progress-bar">
+      <div class="progress" style="width: 75%"></div>
+    </div>
+    <p>Building resilient applications for African markets with limited connectivity</p>
+  </div>
   
-  ## 💬 Let's Connect
+  <div class="learning-item">
+    <h4>🐳 Containerization</h4>
+    <div class="progress-bar">
+      <div class="progress" style="width: 60%"></div>
+    </div>
+    <p>Implementing Docker solutions optimized for constrained hardware environments</p>
+  </div>
   
-  <p>I'm always open to discussing new projects, innovative ideas, or opportunities to be part of your vision.</p>
+  <div class="learning-item">
+    <h4>🤖 AI Integration</h4>
+    <div class="progress-bar">
+      <div class="progress" style="width: 45%"></div>
+    </div>
+    <p>Exploring lightweight ML models for local business intelligence</p>
+  </div>
+  
+  <div class="learning-item">
+    <h4>📱 Flutter Development</h4>
+    <div class="progress-bar">
+      <div class="progress" style="width: 35%"></div>
+    </div>
+    <p>Building cross-platform solutions for broader market reach</p>
+  </div>
+</div>
+
+## 🌍 Community Involvement
+
+- **Local Tech Meetups**: Organizing developer gatherings in Nairobi
+- **Mentorship Program**: Guiding aspiring developers through their coding journey
+- **Open Source**: Contributing to projects that benefit African businesses
+- **Tech Workshops**: Leading sessions on modern development practices
+
+## 💬 Let's Connect
+
+<div align="center" class="connect-section">
+  <p>I'm always open to interesting conversations, collaboration opportunities, and projects that make a difference.</p>
   
   [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/siladennis)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254712345678)
-  [![Calendly](https://img.shields.io/badge/Calendly-0069FF?style=for-the-badge&logo=Calendly&logoColor=white)](https://calendly.com/siladennis)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourwhatsappnumber)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/siladennis)
   
-  ⭐ **Feel free to star my repositories if you find them useful!** ⭐
-  
+  <p class="final-cta">⭐ <strong>If you find my work helpful, a star would be greatly appreciated!</strong> ⭐</p>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SilaDennisN&style=flat-square&color=blue" alt="Profile views"/>
-</div>
-
-<!-- Custom CSS -->
+<!-- Custom CSS for enhanced styling -->
 <style>
+:root {
+  --primary-color: #8a2be2;
+  --secondary-color: #ff6b6b;
+  --accent-color: #00b4d8;
+  --text-color: #333;
+  --light-bg: #f8f9fa;
+}
+
+/* Animated elements */
 .projects {
   animation: fadeIn 1s ease-in-out;
 }
 
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Project styling */
 .project-details {
   display: flex;
   flex-wrap: wrap;
@@ -266,12 +280,14 @@ I regularly write about my experiences and insights on [dev.to/siladennis](https
   margin-top: 15px;
 }
 
+.project-features {
+  flex: 1;
+  min-width: 300px;
+}
+
 .project-image {
   flex: 1;
   min-width: 300px;
-  border-radius: 8px;
-  overflow: hidden;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   transition: transform 0.3s ease;
 }
 
@@ -279,58 +295,87 @@ I regularly write about my experiences and insights on [dev.to/siladennis](https
   transform: scale(1.02);
 }
 
-.project-info {
-  flex: 2;
-  min-width: 300px;
-}
-
-.project-link {
-  display: inline-block;
-  margin-top: 10px;
-  padding: 8px 16px;
-  background-color: #0366d6;
-  color: white;
-  text-decoration: none;
-  border-radius: 4px;
-  font-weight: bold;
-  transition: background-color 0.3s ease;
-}
-
-.project-link:hover {
-  background-color: #0056b3;
-}
-
-.impact-metrics {
+.project-tech {
+  margin-top: 15px;
   display: flex;
-  justify-content: space-around;
+  gap: 10px;
   flex-wrap: wrap;
-  margin: 30px 0;
-  text-align: center;
 }
 
-.metric {
-  padding: 20px;
-  margin: 10px;
-  background-color: #f6f8fa;
+.project-tech span {
+  background: var(--primary-color);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 15px;
+  font-size: 12px;
+  transition: all 0.3s ease;
+}
+
+.project-tech span:hover {
+  background: var(--secondary-color);
+  transform: translateY(-2px);
+}
+
+/* Learning path styling */
+.learning-path {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.learning-item {
+  background: var(--light-bg);
+  padding: 15px;
   border-radius: 8px;
-  min-width: 120px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.metric:hover {
+.learning-item:hover {
   transform: translateY(-5px);
-  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
 
-.metric h3 {
-  font-size: 2rem;
-  margin: 0;
-  color: #0366d6;
+.progress-bar {
+  height: 10px;
+  background: #e9ecef;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 10px 0;
 }
 
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
+.progress {
+  height: 100%;
+  background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+  border-radius: 5px;
+  transition: width 1.5s ease-in-out;
+}
+
+/* Stats section animation */
+.stats-section img {
+  transition: transform 0.3s ease;
+}
+
+.stats-section img:hover {
+  transform: translateY(-5px);
+}
+
+/* Connect section styling */
+.connect-section {
+  background: linear-gradient(135deg, rgba(138, 43, 226, 0.1), rgba(255, 107, 107, 0.1));
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+
+.final-cta {
+  margin-top: 20px;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
 }
 </style>
