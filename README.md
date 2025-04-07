@@ -189,7 +189,6 @@ I'm a versatile software engineer passionate about creating solutions that make 
 
 ## 🌍 Community Involvement
 
-- **Local Tech Meetups**: Organizing developer gatherings in Nairobi
 - **Mentorship Program**: Guiding aspiring developers through their coding journey
 - **Open Source**: Contributing to projects that benefit African businesses
 - **Tech Workshops**: Leading sessions on modern development practices
